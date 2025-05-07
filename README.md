@@ -1,4 +1,4 @@
-# Jegadeesh-Titman Momentum Strategy Implementation
+# Momentum Strategy Implementation
 
 A professional implementation of the well-documented Jegadeesh-Titman (12-1) momentum strategy. This strategy, first published in 1993, has been extensively researched and shown to be effective across different markets and time periods.
 
