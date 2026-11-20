@@ -46,4 +46,13 @@ ENV/
 
 # OS
 .DS_Store
-Thumbs.db 
+Thumbs.db
+# Committed experiment output
+!results/*.csv
+
+# Test / tool caches
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+*.png
